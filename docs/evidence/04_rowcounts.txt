@@ -1,0 +1,2 @@
+dim_customer=1000, dim_product=500, dim_date=1095, dim_order_status=5, dim_payment_method=4, fact_sales=11472,
+oltp_revenue=59084810000, mart_revenue=59084810000, diff=0 vì dữ liệu được trích xuất, ánh xạ qua các Surrogate Key và nạp chuẩn xác 100% theo mô hình Star Schema, bảo toàn tuyệt đối số lượng bản ghi và tổng doanh thu giữa hệ thống nguồn và đích.
